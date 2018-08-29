@@ -15,7 +15,7 @@ After open the google sheets.
 
 * Pivot the data
 * Select x,Rows, Columns 
-*With the povot table, insert chart 
+* With the povot table, insert chart 
 
 ## how to use Google Charts
 * Write the javascript in file 
