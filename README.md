@@ -5,7 +5,7 @@ The original data is from  UN data which is "Total fertility rate (live births p
 http://data.un.org/Data.aspx?q=Total+fertility+rate+per+woman&d=PopDiv&f=variableID%3a54
 I selected 16 countries and the data range from 1950-2100
 ## how to use Google Sheets
-* upload the csv to google Drive 
+* Upload the csv to google Drive 
 * Open the csv in Google Drive with Google sheets
 or 
 * Create a new google Sheets file
